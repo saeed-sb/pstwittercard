@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<module>
+    <name>pstwittercard</name>
+    <displayName><![CDATA[Prestashop Twitter Cards]]></displayName>
+    <version><![CDATA[1.0.0]]></version>
+    <description><![CDATA[This module will allow you to promote your﻿ site and your products on Twitter using﻿ Twitter cards﻿﻿﻿﻿.]]></description>
+    <author><![CDATA[Saeed Sattar Beglou]]></author>
+    <tab><![CDATA[social_networks]]></tab>
+    <is_configurable>1</is_configurable>
+    <need_instance>0</need_instance>
+	<limited_countries></limited_countries>
+</module>
